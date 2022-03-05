@@ -46,6 +46,7 @@ body {
 }
 
 .card-heading {
+  font-size: 1.3rem;
   font-weight: var(--fw-bold);
   color: var(--clr-dark-blue);
 }
